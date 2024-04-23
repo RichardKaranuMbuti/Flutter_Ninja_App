@@ -1,5 +1,5 @@
 ## flutter_app
--Introduction to flutter
+- Introduction to flutter
 - Stateful and Stateless Widgets
 - Functions
 - Assets
